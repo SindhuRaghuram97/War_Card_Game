@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>War Game</title>
+    <style>
+        /* Set up the layout with two columns */
+        .columns {
+          display: flex;
+          flex-direction: row;
+          justify-content: space-between;
+        }
+
+        .left-column,
+        .right-column {
+          width: 50%;
+        }
+
+        /* Set a background image and font for the body */
+        body {
+            background-image: url('/static/images/background_image.jpeg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            font-family: Arial, sans-serif;
+        }
+
+        /* Center the form elements */
+        .form-container,
+        .form-container-responses {
+            display: flex;
+            justify-content: center;
+            flex-direction: column;
+            align-items: left;
+        }
+
+        form {
+            max-width: 600px;
+            text-align: center;
+        }
+
+        /* Style the submit button */
+        .submit-button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #242429;
+            color: #f4f4f4;
+            text-decoration: none;
+            border-radius: 4px;
+            margin-top: 10px;
+            font-size: 14px;
+        }
+
+        /* Style the all-scores div */
+        .all-scores {
+            text-align: center;
+            padding: 10px 20px;
+            color: #f4f4f4;
+            margin-right: 60%
+        }
+
+        /* Style the button links */
+        .button-link {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #242429;
+            color: #f4f4f4;
+            text-decoration: none;
+            border-radius: 4px;
+            margin-top: 10px;
+            font-size: 14px;
+            line-height: 20px;
+            text-align: center;
+        }
+
+        .button-link:hover,
+        .submit-button:hover {
+            background-color: #43434b;
+        }
+
+        /* Style the answers div */
+        .answers {
+            text-align: center;
+            padding: 10px 20px;
+            color: #f4f4f4;
+        }
+
+        /* Style the form inputs */
+        input[type="text"] {
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 14px;
+        }
+
+        /* Style the translucent backgrounds */
+        .translucent-background,
+        .translucent-background-results {
+            padding: 20px 20px;
+            width: 60%;
+            height: 100%;
+            align-items: center;
+        }
+
+        .translucent-background {
+            background-color: rgba(128, 128, 128, 0.5);
+            margin-left: 30%;
+        }
+
+        .translucent-background-results {
+            background-color: #242429;
+            margin-right: 20%;
+        }
+
+        /* Style the form labels */
+        label {
+            font-size: 14px;
+            margin-right: 10px;
+            color: #f4f4f4;
+        }
+    </style>
+</head>
+<body>
+    <!-- Create a two-column layout -->
+    <div class="columns">
+        <!-- Left column for forms and actions -->
+        <div class="left-column">
+            <!-- Translucent background container -->
+            <div class="translucent-background">
+                <!-- Display a heading -->
+                <div class="form-container">
+                    <h1 style="color: #f4f4f4;font-family:Gill Sans;">Let the Wars begin!!</h1>
+                </div>
+
+                <!-- Start Game form -->
+                <div class="form-container">
+                    <form action="{{ url_for('start_game') }}" method="POST">
+                        <!-- Player 1 name input -->
+                        <div class="form-container">
+                            <label for="player1">Enter player 1 name:</label>
+                            <input type="text" id="player1" name="player1" required>
+                        </div>
+                        <br>
+                        <!-- Player 2 name input -->
+                        <div class="form-container">
+                            <label for="player2">Enter player 2 name:</label>
+                            <input type="text" id="player2" name="player2" required>
+                        </div>
+                        <br>
+                        <!-- Start Game button -->
+                        <div class="form-container">
+                            <button type="submit" class="submit-button">Start Game</button>
+                        </div>
+                    </form>
+                </div>
+                <br>
+                <!-- Get Player Score form -->
+                <div class="form-container">
+                    <form action="{{ url_for('get_player_score') }}" method="POST">
+                        <!-- Player name input -->
+                        <div class="form-container">
+                            <label for="player_name">Enter player name:</label>
+                            <input type="text" id="player_name" name="player_name" required>
+                        </div>
+                        <br>
+                        <!-- Get Player Score button -->
+                        <div class="form-container">
+                            <button class="submit-button" type="submit">Get Player Score</button>
+                        </div>
+                    </form>
+                </div>
+
+                <br>
+                <!-- Other actions -->
+                <div class="form-container">
+                    <a class="button-link" href="{{ url_for('get_player_wins') }}">Get All Wins</a>
+                </div>
+                <br>
+                <div class="form-container">
+                    <a class="button-link" href="{{ url_for('reset_all_scores') }}">Reset All Scores</a>
+                </div>
+                <br>
+                <div class="form-container">
+                    <a class="button-link" href="{{ url_for('get_logs') }}">Get Logs</a>
+                </div>
+            </div>
+        </div>
+
+        <br>
+
+        <!-- Right column for displaying results -->
+        <div class="right-column">
+            <!-- Translucent background for results -->
+            <div class="translucent-background-results">
+                <!-- Display a heading -->
+                <div class="form-container">
+                    <h1 style="color: #f4f4f4;font-family:Gill Sans;text-align:center;">Results!</h1>
+                </div>
+                <!-- Display winner after starting the game -->
+                <div class="form-container">
+                    {% if start_game_flag %}
+                        {% if winner %}
+                            <p class="answers">{{ winner }} has won this round.</p>
+                        {% endif %}
+                        {% set start_game_flag = False %}
+                    {% endif %}
+                </div>
+                <!-- Display all players' wins -->
+                <div class="form-container">
+                    {% if get_scores_flag %}
+                        {% if player_wins %}
+                            <pre class="all-scores">
+                            {% for item in player_wins %}
+    The player {{ item.name }} has had {{ item.wins }} wins so far.{% if not loop.last %}{% endif %}
+                            {% endfor %}
+                            </pre>
+                        {% elif not player_wins %}
+                            <p class="answers">The Game Board is empty. Start a new game!</p>
+                        {% endif %}
+                        {% set get_scores_flag = False %}
+                    {% endif %}
+                </div>
+                <!-- Display a message after resetting scores -->
+                <div class="form-container">
+                    {% if reset_scores_flag %}
+                        {% if message %}
+                            <p class="answers">{{ message }}</p>
+                        {% endif %}
+                        {% set reset_scores_flag = False %}
+                    {% endif %}
+                </div>
+                <!-- Display an individual player's score -->
+                <div class="form-container">
+                    {% if player_score_flag %}
+                        {% if player_score %}
+                            <p class="answers">The player {{ player_name }} has had {{ player_score[1] }} wins so far.</p>
+                        {% endif %}
+                        {% set player_score_flag = False %}
+                    {% endif %}
+                </div>
+                <!-- Display log information -->
+                {% if logs %}
+                    {% if output_message is none %}
+                        <p class="answers">Logs have been written to the {{ filename }} file.</p>
+                    {% else %}
+                        <p class="answers">{{ output_message }}</p>
+                    {% endif %}
+                    {% set logs = False %}
+                {% endif %}
+                <!-- Display additional output -->
+                <div class="form-container">
+                    {% if get_scores_flag %}
+                        {% if output %}
+                            <p class="answers">{{ output }}</p>
+                        {% endif %}
+                        {% set get_scores_flag = False %}
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

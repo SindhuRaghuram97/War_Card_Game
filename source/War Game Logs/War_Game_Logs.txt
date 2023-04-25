@@ -1,0 +1,2759 @@
+Stefan has 26 cards.
+Elena has 26 cards.
+
+Round 1 -
+Stefan has 26 cards
+Stefan played 7. Total cards left = 25
+
+Elena has 26 cards
+Elena played 12. Total cards left = 25
+
+Elena won 2 cards.
+
+
+Round 2 -
+Stefan has 25 cards
+Stefan played 3. Total cards left = 24
+
+Elena has 27 cards
+Elena played 12. Total cards left = 26
+
+Elena won 2 cards.
+
+
+Round 3 -
+Stefan has 24 cards
+Stefan played 5. Total cards left = 23
+
+Elena has 28 cards
+Elena played 12. Total cards left = 27
+
+Elena won 2 cards.
+
+
+Round 4 -
+Stefan has 23 cards
+Stefan played 5. Total cards left = 22
+
+Elena has 29 cards
+Elena played 12. Total cards left = 28
+
+Elena won 2 cards.
+
+
+Round 5 -
+Stefan has 22 cards
+Stefan played 3. Total cards left = 21
+
+Elena has 30 cards
+Elena played 12. Total cards left = 29
+
+Elena won 2 cards.
+
+
+Round 6 -
+Stefan has 21 cards
+Stefan played 13. Total cards left = 20
+
+Elena has 31 cards
+Elena played 12. Total cards left = 30
+
+Stefan won 2 cards.
+
+
+Round 7 -
+Stefan has 22 cards
+Stefan played 12. Total cards left = 21
+
+Elena has 30 cards
+Elena played 3. Total cards left = 29
+
+Stefan won 2 cards.
+
+
+Round 8 -
+Stefan has 23 cards
+Stefan played 3. Total cards left = 22
+
+Elena has 29 cards
+Elena played 5. Total cards left = 28
+
+Elena won 2 cards.
+
+
+Round 9 -
+Stefan has 22 cards
+Stefan played 12. Total cards left = 21
+
+Elena has 30 cards
+Elena played 5. Total cards left = 29
+
+Stefan won 2 cards.
+
+
+Round 10 -
+Stefan has 23 cards
+Stefan played 5. Total cards left = 22
+
+Elena has 29 cards
+Elena played 3. Total cards left = 28
+
+Stefan won 2 cards.
+
+
+Round 11 -
+Stefan has 24 cards
+Stefan played 3. Total cards left = 23
+
+Elena has 28 cards
+Elena played 5. Total cards left = 27
+
+Elena won 2 cards.
+
+
+Round 12 -
+Stefan has 23 cards
+Stefan played 5. Total cards left = 22
+
+Elena has 29 cards
+Elena played 5. Total cards left = 28
+
+
+War!
+
+Stefan has 22 cards
+Stefan played 12. Total cards left = 21
+
+Elena has 28 cards
+Elena played 3. Total cards left = 27
+
+Stefan has 21 cards
+Stefan played 13. Total cards left = 20
+
+Elena has 27 cards
+Elena played 3. Total cards left = 26
+
+
+War continued!
+
+Stefan won 6 cards.
+
+
+Round 13 -
+Stefan has 26 cards
+Stefan played 3. Total cards left = 25
+
+Elena has 26 cards
+Elena played 7. Total cards left = 25
+
+Elena won 2 cards.
+
+
+Round 14 -
+Stefan has 25 cards
+Stefan played 13. Total cards left = 24
+
+Elena has 27 cards
+Elena played 7. Total cards left = 26
+
+Stefan won 2 cards.
+
+
+Round 15 -
+Stefan has 26 cards
+Stefan played 7. Total cards left = 25
+
+Elena has 26 cards
+Elena played 3. Total cards left = 25
+
+Stefan won 2 cards.
+
+
+Round 16 -
+Stefan has 27 cards
+Stefan played 3. Total cards left = 26
+
+Elena has 25 cards
+Elena played 13. Total cards left = 24
+
+Elena won 2 cards.
+
+
+Round 17 -
+Stefan has 26 cards
+Stefan played 7. Total cards left = 25
+
+Elena has 26 cards
+Elena played 13. Total cards left = 25
+
+Elena won 2 cards.
+
+
+Round 18 -
+Stefan has 25 cards
+Stefan played 13. Total cards left = 24
+
+Elena has 27 cards
+Elena played 13. Total cards left = 26
+
+
+War!
+
+Stefan has 24 cards
+Stefan played 3. Total cards left = 23
+
+Elena has 26 cards
+Elena played 7. Total cards left = 25
+
+Stefan has 23 cards
+Stefan played 12. Total cards left = 22
+
+Elena has 25 cards
+Elena played 3. Total cards left = 24
+
+
+War continued!
+
+Stefan won 6 cards.
+
+
+Round 19 -
+Stefan has 28 cards
+Stefan played 3. Total cards left = 27
+
+Elena has 24 cards
+Elena played 13. Total cards left = 23
+
+Elena won 2 cards.
+
+
+Round 20 -
+Stefan has 27 cards
+Stefan played 12. Total cards left = 26
+
+Elena has 25 cards
+Elena played 13. Total cards left = 24
+
+Elena won 2 cards.
+
+
+Round 21 -
+Stefan has 26 cards
+Stefan played 7. Total cards left = 25
+
+Elena has 26 cards
+Elena played 13. Total cards left = 25
+
+Elena won 2 cards.
+
+
+Round 22 -
+Stefan has 25 cards
+Stefan played 3. Total cards left = 24
+
+Elena has 27 cards
+Elena played 13. Total cards left = 26
+
+Elena won 2 cards.
+
+
+Round 23 -
+Stefan has 24 cards
+Stefan played 13. Total cards left = 23
+
+Elena has 28 cards
+Elena played 13. Total cards left = 27
+
+
+War!
+
+Stefan has 23 cards
+Stefan played 13. Total cards left = 22
+
+Elena has 27 cards
+Elena played 3. Total cards left = 26
+
+Stefan has 22 cards
+Stefan played 5. Total cards left = 21
+
+Elena has 26 cards
+Elena played 7. Total cards left = 25
+
+
+War continued!
+
+Elena won 6 cards.
+
+
+Round 24 -
+Stefan has 21 cards
+Stefan played 5. Total cards left = 20
+
+Elena has 31 cards
+Elena played 7. Total cards left = 30
+
+Elena won 2 cards.
+
+
+Round 25 -
+Stefan has 20 cards
+Stefan played 2. Total cards left = 19
+
+Elena has 32 cards
+Elena played 7. Total cards left = 31
+
+Elena won 2 cards.
+
+
+Round 26 -
+Stefan has 19 cards
+Stefan played 12. Total cards left = 18
+
+Elena has 33 cards
+Elena played 7. Total cards left = 32
+
+Stefan won 2 cards.
+
+
+Round 27 -
+Stefan has 20 cards
+Stefan played 7. Total cards left = 19
+
+Elena has 32 cards
+Elena played 2. Total cards left = 31
+
+Stefan won 2 cards.
+
+
+Round 28 -
+Stefan has 21 cards
+Stefan played 2. Total cards left = 20
+
+Elena has 31 cards
+Elena played 5. Total cards left = 30
+
+Elena won 2 cards.
+
+
+Round 29 -
+Stefan has 20 cards
+Stefan played 7. Total cards left = 19
+
+Elena has 32 cards
+Elena played 5. Total cards left = 31
+
+Stefan won 2 cards.
+
+
+Round 30 -
+Stefan has 21 cards
+Stefan played 5. Total cards left = 20
+
+Elena has 31 cards
+Elena played 2. Total cards left = 30
+
+Stefan won 2 cards.
+
+
+Round 31 -
+Stefan has 22 cards
+Stefan played 2. Total cards left = 21
+
+Elena has 30 cards
+Elena played 5. Total cards left = 29
+
+Elena won 2 cards.
+
+
+Round 32 -
+Stefan has 21 cards
+Stefan played 5. Total cards left = 20
+
+Elena has 31 cards
+Elena played 5. Total cards left = 30
+
+
+War!
+
+Stefan has 20 cards
+Stefan played 7. Total cards left = 19
+
+Elena has 30 cards
+Elena played 2. Total cards left = 29
+
+Stefan has 19 cards
+Stefan played 12. Total cards left = 18
+
+Elena has 29 cards
+Elena played 3. Total cards left = 28
+
+
+War continued!
+
+Stefan won 6 cards.
+
+
+Round 33 -
+Stefan has 24 cards
+Stefan played 3. Total cards left = 23
+
+Elena has 28 cards
+Elena played 13. Total cards left = 27
+
+Elena won 2 cards.
+
+
+Round 34 -
+Stefan has 23 cards
+Stefan played 12. Total cards left = 22
+
+Elena has 29 cards
+Elena played 13. Total cards left = 28
+
+Elena won 2 cards.
+
+
+Round 35 -
+Stefan has 22 cards
+Stefan played 2. Total cards left = 21
+
+Elena has 30 cards
+Elena played 13. Total cards left = 29
+
+Elena won 2 cards.
+
+
+Round 36 -
+Stefan has 21 cards
+Stefan played 7. Total cards left = 20
+
+Elena has 31 cards
+Elena played 13. Total cards left = 30
+
+Elena won 2 cards.
+
+
+Round 37 -
+Stefan has 20 cards
+Stefan played 5. Total cards left = 19
+
+Elena has 32 cards
+Elena played 13. Total cards left = 31
+
+Elena won 2 cards.
+
+
+Round 38 -
+Stefan has 19 cards
+Stefan played 5. Total cards left = 18
+
+Elena has 33 cards
+Elena played 13. Total cards left = 32
+
+Elena won 2 cards.
+
+
+Round 39 -
+Stefan has 18 cards
+Stefan played 7. Total cards left = 17
+
+Elena has 34 cards
+Elena played 13. Total cards left = 33
+
+Elena won 2 cards.
+
+
+Round 40 -
+Stefan has 17 cards
+Stefan played 10. Total cards left = 16
+
+Elena has 35 cards
+Elena played 13. Total cards left = 34
+
+Elena won 2 cards.
+
+
+Round 41 -
+Stefan has 16 cards
+Stefan played 4. Total cards left = 15
+
+Elena has 36 cards
+Elena played 13. Total cards left = 35
+
+Elena won 2 cards.
+
+
+Round 42 -
+Stefan has 15 cards
+Stefan played 2. Total cards left = 14
+
+Elena has 37 cards
+Elena played 13. Total cards left = 36
+
+Elena won 2 cards.
+
+
+Round 43 -
+Stefan has 14 cards
+Stefan played 6. Total cards left = 13
+
+Elena has 38 cards
+Elena played 13. Total cards left = 37
+
+Elena won 2 cards.
+
+
+Round 44 -
+Stefan has 13 cards
+Stefan played 8. Total cards left = 12
+
+Elena has 39 cards
+Elena played 13. Total cards left = 38
+
+Elena won 2 cards.
+
+
+Round 45 -
+Stefan has 12 cards
+Stefan played 14. Total cards left = 11
+
+Elena has 40 cards
+Elena played 13. Total cards left = 39
+
+Stefan won 2 cards.
+
+
+Round 46 -
+Stefan has 13 cards
+Stefan played 13. Total cards left = 12
+
+Elena has 39 cards
+Elena played 8. Total cards left = 38
+
+Stefan won 2 cards.
+
+
+Round 47 -
+Stefan has 14 cards
+Stefan played 8. Total cards left = 13
+
+Elena has 38 cards
+Elena played 6. Total cards left = 37
+
+Stefan won 2 cards.
+
+
+Round 48 -
+Stefan has 15 cards
+Stefan played 6. Total cards left = 14
+
+Elena has 37 cards
+Elena played 2. Total cards left = 36
+
+Stefan won 2 cards.
+
+
+Round 49 -
+Stefan has 16 cards
+Stefan played 2. Total cards left = 15
+
+Elena has 36 cards
+Elena played 4. Total cards left = 35
+
+Elena won 2 cards.
+
+
+Round 50 -
+Stefan has 15 cards
+Stefan played 6. Total cards left = 14
+
+Elena has 37 cards
+Elena played 4. Total cards left = 36
+
+Stefan won 2 cards.
+
+
+Round 51 -
+Stefan has 16 cards
+Stefan played 4. Total cards left = 15
+
+Elena has 36 cards
+Elena played 2. Total cards left = 35
+
+Stefan won 2 cards.
+
+
+Round 52 -
+Stefan has 17 cards
+Stefan played 2. Total cards left = 16
+
+Elena has 35 cards
+Elena played 10. Total cards left = 34
+
+Elena won 2 cards.
+
+
+Round 53 -
+Stefan has 16 cards
+Stefan played 4. Total cards left = 15
+
+Elena has 36 cards
+Elena played 10. Total cards left = 35
+
+Elena won 2 cards.
+
+
+Round 54 -
+Stefan has 15 cards
+Stefan played 6. Total cards left = 14
+
+Elena has 37 cards
+Elena played 10. Total cards left = 36
+
+Elena won 2 cards.
+
+
+Round 55 -
+Stefan has 14 cards
+Stefan played 8. Total cards left = 13
+
+Elena has 38 cards
+Elena played 10. Total cards left = 37
+
+Elena won 2 cards.
+
+
+Round 56 -
+Stefan has 13 cards
+Stefan played 13. Total cards left = 12
+
+Elena has 39 cards
+Elena played 10. Total cards left = 38
+
+Stefan won 2 cards.
+
+
+Round 57 -
+Stefan has 14 cards
+Stefan played 10. Total cards left = 13
+
+Elena has 38 cards
+Elena played 8. Total cards left = 37
+
+Stefan won 2 cards.
+
+
+Round 58 -
+Stefan has 15 cards
+Stefan played 8. Total cards left = 14
+
+Elena has 37 cards
+Elena played 6. Total cards left = 36
+
+Stefan won 2 cards.
+
+
+Round 59 -
+Stefan has 16 cards
+Stefan played 6. Total cards left = 15
+
+Elena has 36 cards
+Elena played 4. Total cards left = 35
+
+Stefan won 2 cards.
+
+
+Round 60 -
+Stefan has 17 cards
+Stefan played 4. Total cards left = 16
+
+Elena has 35 cards
+Elena played 2. Total cards left = 34
+
+Stefan won 2 cards.
+
+
+Round 61 -
+Stefan has 18 cards
+Stefan played 2. Total cards left = 17
+
+Elena has 34 cards
+Elena played 7. Total cards left = 33
+
+Elena won 2 cards.
+
+
+Round 62 -
+Stefan has 17 cards
+Stefan played 4. Total cards left = 16
+
+Elena has 35 cards
+Elena played 7. Total cards left = 34
+
+Elena won 2 cards.
+
+
+Round 63 -
+Stefan has 16 cards
+Stefan played 6. Total cards left = 15
+
+Elena has 36 cards
+Elena played 7. Total cards left = 35
+
+Elena won 2 cards.
+
+
+Round 64 -
+Stefan has 15 cards
+Stefan played 8. Total cards left = 14
+
+Elena has 37 cards
+Elena played 7. Total cards left = 36
+
+Stefan won 2 cards.
+
+
+Round 65 -
+Stefan has 16 cards
+Stefan played 7. Total cards left = 15
+
+Elena has 36 cards
+Elena played 6. Total cards left = 35
+
+Stefan won 2 cards.
+
+
+Round 66 -
+Stefan has 17 cards
+Stefan played 6. Total cards left = 16
+
+Elena has 35 cards
+Elena played 4. Total cards left = 34
+
+Stefan won 2 cards.
+
+
+Round 67 -
+Stefan has 18 cards
+Stefan played 4. Total cards left = 17
+
+Elena has 34 cards
+Elena played 2. Total cards left = 33
+
+Stefan won 2 cards.
+
+
+Round 68 -
+Stefan has 19 cards
+Stefan played 2. Total cards left = 18
+
+Elena has 33 cards
+Elena played 5. Total cards left = 32
+
+Elena won 2 cards.
+
+
+Round 69 -
+Stefan has 18 cards
+Stefan played 4. Total cards left = 17
+
+Elena has 34 cards
+Elena played 5. Total cards left = 33
+
+Elena won 2 cards.
+
+
+Round 70 -
+Stefan has 17 cards
+Stefan played 6. Total cards left = 16
+
+Elena has 35 cards
+Elena played 5. Total cards left = 34
+
+Stefan won 2 cards.
+
+
+Round 71 -
+Stefan has 18 cards
+Stefan played 5. Total cards left = 17
+
+Elena has 34 cards
+Elena played 4. Total cards left = 33
+
+Stefan won 2 cards.
+
+
+Round 72 -
+Stefan has 19 cards
+Stefan played 4. Total cards left = 18
+
+Elena has 33 cards
+Elena played 2. Total cards left = 32
+
+Stefan won 2 cards.
+
+
+Round 73 -
+Stefan has 20 cards
+Stefan played 2. Total cards left = 19
+
+Elena has 32 cards
+Elena played 5. Total cards left = 31
+
+Elena won 2 cards.
+
+
+Round 74 -
+Stefan has 19 cards
+Stefan played 4. Total cards left = 18
+
+Elena has 33 cards
+Elena played 5. Total cards left = 32
+
+Elena won 2 cards.
+
+
+Round 75 -
+Stefan has 18 cards
+Stefan played 5. Total cards left = 17
+
+Elena has 34 cards
+Elena played 5. Total cards left = 33
+
+
+War!
+
+Stefan has 17 cards
+Stefan played 6. Total cards left = 16
+
+Elena has 33 cards
+Elena played 4. Total cards left = 32
+
+Stefan has 16 cards
+Stefan played 7. Total cards left = 15
+
+Elena has 32 cards
+Elena played 2. Total cards left = 31
+
+
+War continued!
+
+Stefan won 6 cards.
+
+
+Round 76 -
+Stefan has 21 cards
+Stefan played 2. Total cards left = 20
+
+Elena has 31 cards
+Elena played 7. Total cards left = 30
+
+Elena won 2 cards.
+
+
+Round 77 -
+Stefan has 20 cards
+Stefan played 7. Total cards left = 19
+
+Elena has 32 cards
+Elena played 7. Total cards left = 31
+
+
+War!
+
+Stefan has 19 cards
+Stefan played 4. Total cards left = 18
+
+Elena has 31 cards
+Elena played 2. Total cards left = 30
+
+Stefan has 18 cards
+Stefan played 6. Total cards left = 17
+
+Elena has 30 cards
+Elena played 2. Total cards left = 29
+
+
+War continued!
+
+Stefan won 6 cards.
+
+
+Round 78 -
+Stefan has 23 cards
+Stefan played 2. Total cards left = 22
+
+Elena has 29 cards
+Elena played 12. Total cards left = 28
+
+Elena won 2 cards.
+
+
+Round 79 -
+Stefan has 22 cards
+Stefan played 6. Total cards left = 21
+
+Elena has 30 cards
+Elena played 12. Total cards left = 29
+
+Elena won 2 cards.
+
+
+Round 80 -
+Stefan has 21 cards
+Stefan played 2. Total cards left = 20
+
+Elena has 31 cards
+Elena played 12. Total cards left = 30
+
+Elena won 2 cards.
+
+
+Round 81 -
+Stefan has 20 cards
+Stefan played 4. Total cards left = 19
+
+Elena has 32 cards
+Elena played 12. Total cards left = 31
+
+Elena won 2 cards.
+
+
+Round 82 -
+Stefan has 19 cards
+Stefan played 7. Total cards left = 18
+
+Elena has 33 cards
+Elena played 12. Total cards left = 32
+
+Elena won 2 cards.
+
+
+Round 83 -
+Stefan has 18 cards
+Stefan played 7. Total cards left = 17
+
+Elena has 34 cards
+Elena played 12. Total cards left = 33
+
+Elena won 2 cards.
+
+
+Round 84 -
+Stefan has 17 cards
+Stefan played 5. Total cards left = 16
+
+Elena has 35 cards
+Elena played 12. Total cards left = 34
+
+Elena won 2 cards.
+
+
+Round 85 -
+Stefan has 16 cards
+Stefan played 5. Total cards left = 15
+
+Elena has 36 cards
+Elena played 12. Total cards left = 35
+
+Elena won 2 cards.
+
+
+Round 86 -
+Stefan has 15 cards
+Stefan played 8. Total cards left = 14
+
+Elena has 37 cards
+Elena played 12. Total cards left = 36
+
+Elena won 2 cards.
+
+
+Round 87 -
+Stefan has 14 cards
+Stefan played 10. Total cards left = 13
+
+Elena has 38 cards
+Elena played 12. Total cards left = 37
+
+Elena won 2 cards.
+
+
+Round 88 -
+Stefan has 13 cards
+Stefan played 13. Total cards left = 12
+
+Elena has 39 cards
+Elena played 12. Total cards left = 38
+
+Stefan won 2 cards.
+
+
+Round 89 -
+Stefan has 14 cards
+Stefan played 12. Total cards left = 13
+
+Elena has 38 cards
+Elena played 10. Total cards left = 37
+
+Stefan won 2 cards.
+
+
+Round 90 -
+Stefan has 15 cards
+Stefan played 10. Total cards left = 14
+
+Elena has 37 cards
+Elena played 8. Total cards left = 36
+
+Stefan won 2 cards.
+
+
+Round 91 -
+Stefan has 16 cards
+Stefan played 8. Total cards left = 15
+
+Elena has 36 cards
+Elena played 5. Total cards left = 35
+
+Stefan won 2 cards.
+
+
+Round 92 -
+Stefan has 17 cards
+Stefan played 5. Total cards left = 16
+
+Elena has 35 cards
+Elena played 5. Total cards left = 34
+
+
+War!
+
+Stefan has 16 cards
+Stefan played 8. Total cards left = 15
+
+Elena has 34 cards
+Elena played 7. Total cards left = 33
+
+Stefan has 15 cards
+Stefan played 10. Total cards left = 14
+
+Elena has 33 cards
+Elena played 7. Total cards left = 32
+
+
+War continued!
+
+Stefan won 6 cards.
+
+
+Round 93 -
+Stefan has 20 cards
+Stefan played 7. Total cards left = 19
+
+Elena has 32 cards
+Elena played 4. Total cards left = 31
+
+Stefan won 2 cards.
+
+
+Round 94 -
+Stefan has 21 cards
+Stefan played 4. Total cards left = 20
+
+Elena has 31 cards
+Elena played 2. Total cards left = 30
+
+Stefan won 2 cards.
+
+
+Round 95 -
+Stefan has 22 cards
+Stefan played 2. Total cards left = 21
+
+Elena has 30 cards
+Elena played 6. Total cards left = 29
+
+Elena won 2 cards.
+
+
+Round 96 -
+Stefan has 21 cards
+Stefan played 4. Total cards left = 20
+
+Elena has 31 cards
+Elena played 6. Total cards left = 30
+
+Elena won 2 cards.
+
+
+Round 97 -
+Stefan has 20 cards
+Stefan played 7. Total cards left = 19
+
+Elena has 32 cards
+Elena played 6. Total cards left = 31
+
+Stefan won 2 cards.
+
+
+Round 98 -
+Stefan has 21 cards
+Stefan played 6. Total cards left = 20
+
+Elena has 31 cards
+Elena played 4. Total cards left = 30
+
+Stefan won 2 cards.
+
+
+Round 99 -
+Stefan has 22 cards
+Stefan played 4. Total cards left = 21
+
+Elena has 30 cards
+Elena played 2. Total cards left = 29
+
+Stefan won 2 cards.
+
+
+Round 100 -
+Stefan has 23 cards
+Stefan played 2. Total cards left = 22
+
+Elena has 29 cards
+Elena played 2. Total cards left = 28
+
+
+War!
+
+Stefan has 22 cards
+Stefan played 4. Total cards left = 21
+
+Elena has 28 cards
+Elena played 3. Total cards left = 27
+
+Stefan has 21 cards
+Stefan played 6. Total cards left = 20
+
+Elena has 27 cards
+Elena played 13. Total cards left = 26
+
+
+War continued!
+
+Elena won 6 cards.
+
+
+Round 101 -
+Stefan has 20 cards
+Stefan played 7. Total cards left = 19
+
+Elena has 32 cards
+Elena played 13. Total cards left = 31
+
+Elena won 2 cards.
+
+
+Round 102 -
+Stefan has 19 cards
+Stefan played 10. Total cards left = 18
+
+Elena has 33 cards
+Elena played 13. Total cards left = 32
+
+Elena won 2 cards.
+
+
+Round 103 -
+Stefan has 18 cards
+Stefan played 7. Total cards left = 17
+
+Elena has 34 cards
+Elena played 13. Total cards left = 33
+
+Elena won 2 cards.
+
+
+Round 104 -
+Stefan has 17 cards
+Stefan played 8. Total cards left = 16
+
+Elena has 35 cards
+Elena played 13. Total cards left = 34
+
+Elena won 2 cards.
+
+
+Round 105 -
+Stefan has 16 cards
+Stefan played 5. Total cards left = 15
+
+Elena has 36 cards
+Elena played 13. Total cards left = 35
+
+Elena won 2 cards.
+
+
+Round 106 -
+Stefan has 15 cards
+Stefan played 5. Total cards left = 14
+
+Elena has 37 cards
+Elena played 13. Total cards left = 36
+
+Elena won 2 cards.
+
+
+Round 107 -
+Stefan has 14 cards
+Stefan played 12. Total cards left = 13
+
+Elena has 38 cards
+Elena played 13. Total cards left = 37
+
+Elena won 2 cards.
+
+
+Round 108 -
+Stefan has 13 cards
+Stefan played 13. Total cards left = 12
+
+Elena has 39 cards
+Elena played 13. Total cards left = 38
+
+
+War!
+
+Stefan has 12 cards
+Stefan played 14. Total cards left = 11
+
+Elena has 38 cards
+Elena played 12. Total cards left = 37
+
+Stefan has 11 cards
+Stefan played 8. Total cards left = 10
+
+Elena has 37 cards
+Elena played 5. Total cards left = 36
+
+
+War continued!
+
+Stefan won 6 cards.
+
+
+Round 109 -
+Stefan has 16 cards
+Stefan played 5. Total cards left = 15
+
+Elena has 36 cards
+Elena played 5. Total cards left = 35
+
+
+War!
+
+Stefan has 15 cards
+Stefan played 8. Total cards left = 14
+
+Elena has 35 cards
+Elena played 8. Total cards left = 34
+
+Stefan has 14 cards
+Stefan played 12. Total cards left = 13
+
+Elena has 34 cards
+Elena played 7. Total cards left = 33
+
+
+War continued!
+
+Stefan won 6 cards.
+
+
+Round 110 -
+Stefan has 19 cards
+Stefan played 7. Total cards left = 18
+
+Elena has 33 cards
+Elena played 10. Total cards left = 32
+
+Elena won 2 cards.
+
+
+Round 111 -
+Stefan has 18 cards
+Stefan played 12. Total cards left = 17
+
+Elena has 34 cards
+Elena played 10. Total cards left = 33
+
+Stefan won 2 cards.
+
+
+Round 112 -
+Stefan has 19 cards
+Stefan played 10. Total cards left = 18
+
+Elena has 33 cards
+Elena played 7. Total cards left = 32
+
+Stefan won 2 cards.
+
+
+Round 113 -
+Stefan has 20 cards
+Stefan played 7. Total cards left = 19
+
+Elena has 32 cards
+Elena played 7. Total cards left = 31
+
+
+War!
+
+Stefan has 19 cards
+Stefan played 10. Total cards left = 18
+
+Elena has 31 cards
+Elena played 6. Total cards left = 30
+
+Stefan has 18 cards
+Stefan played 12. Total cards left = 17
+
+Elena has 30 cards
+Elena played 3. Total cards left = 29
+
+
+War continued!
+
+Stefan won 6 cards.
+
+
+Round 114 -
+Stefan has 23 cards
+Stefan played 3. Total cards left = 22
+
+Elena has 29 cards
+Elena played 4. Total cards left = 28
+
+Elena won 2 cards.
+
+
+Round 115 -
+Stefan has 22 cards
+Stefan played 12. Total cards left = 21
+
+Elena has 30 cards
+Elena played 4. Total cards left = 29
+
+Stefan won 2 cards.
+
+
+Round 116 -
+Stefan has 23 cards
+Stefan played 4. Total cards left = 22
+
+Elena has 29 cards
+Elena played 3. Total cards left = 28
+
+Stefan won 2 cards.
+
+
+Round 117 -
+Stefan has 24 cards
+Stefan played 3. Total cards left = 23
+
+Elena has 28 cards
+Elena played 2. Total cards left = 27
+
+Stefan won 2 cards.
+
+
+Round 118 -
+Stefan has 25 cards
+Stefan played 2. Total cards left = 24
+
+Elena has 27 cards
+Elena played 2. Total cards left = 26
+
+
+War!
+
+Stefan has 24 cards
+Stefan played 3. Total cards left = 23
+
+Elena has 26 cards
+Elena played 13. Total cards left = 25
+
+Stefan has 23 cards
+Stefan played 4. Total cards left = 22
+
+Elena has 25 cards
+Elena played 12. Total cards left = 24
+
+
+War continued!
+
+Elena won 6 cards.
+
+
+Round 119 -
+Stefan has 22 cards
+Stefan played 12. Total cards left = 21
+
+Elena has 30 cards
+Elena played 12. Total cards left = 29
+
+
+War!
+
+Stefan has 21 cards
+Stefan played 6. Total cards left = 20
+
+Elena has 29 cards
+Elena played 4. Total cards left = 28
+
+Stefan has 20 cards
+Stefan played 10. Total cards left = 19
+
+Elena has 28 cards
+Elena played 13. Total cards left = 27
+
+
+War continued!
+
+Elena won 6 cards.
+
+
+Round 120 -
+Stefan has 19 cards
+Stefan played 7. Total cards left = 18
+
+Elena has 33 cards
+Elena played 13. Total cards left = 32
+
+Elena won 2 cards.
+
+
+Round 121 -
+Stefan has 18 cards
+Stefan played 7. Total cards left = 17
+
+Elena has 34 cards
+Elena played 13. Total cards left = 33
+
+Elena won 2 cards.
+
+
+Round 122 -
+Stefan has 17 cards
+Stefan played 8. Total cards left = 16
+
+Elena has 35 cards
+Elena played 13. Total cards left = 34
+
+Elena won 2 cards.
+
+
+Round 123 -
+Stefan has 16 cards
+Stefan played 8. Total cards left = 15
+
+Elena has 36 cards
+Elena played 13. Total cards left = 35
+
+Elena won 2 cards.
+
+
+Round 124 -
+Stefan has 15 cards
+Stefan played 5. Total cards left = 14
+
+Elena has 37 cards
+Elena played 13. Total cards left = 36
+
+Elena won 2 cards.
+
+
+Round 125 -
+Stefan has 14 cards
+Stefan played 5. Total cards left = 13
+
+Elena has 38 cards
+Elena played 13. Total cards left = 37
+
+Elena won 2 cards.
+
+
+Round 126 -
+Stefan has 13 cards
+Stefan played 14. Total cards left = 12
+
+Elena has 39 cards
+Elena played 13. Total cards left = 38
+
+Stefan won 2 cards.
+
+
+Round 127 -
+Stefan has 14 cards
+Stefan played 13. Total cards left = 13
+
+Elena has 38 cards
+Elena played 5. Total cards left = 37
+
+Stefan won 2 cards.
+
+
+Round 128 -
+Stefan has 15 cards
+Stefan played 5. Total cards left = 14
+
+Elena has 37 cards
+Elena played 5. Total cards left = 36
+
+
+War!
+
+Stefan has 14 cards
+Stefan played 13. Total cards left = 13
+
+Elena has 36 cards
+Elena played 8. Total cards left = 35
+
+Stefan has 13 cards
+Stefan played 14. Total cards left = 12
+
+Elena has 35 cards
+Elena played 8. Total cards left = 34
+
+
+War continued!
+
+Stefan won 6 cards.
+
+
+Round 129 -
+Stefan has 18 cards
+Stefan played 8. Total cards left = 17
+
+Elena has 34 cards
+Elena played 7. Total cards left = 33
+
+Stefan won 2 cards.
+
+
+Round 130 -
+Stefan has 19 cards
+Stefan played 7. Total cards left = 18
+
+Elena has 33 cards
+Elena played 7. Total cards left = 32
+
+
+War!
+
+Stefan has 18 cards
+Stefan played 8. Total cards left = 17
+
+Elena has 32 cards
+Elena played 10. Total cards left = 31
+
+Stefan has 17 cards
+Stefan played 14. Total cards left = 16
+
+Elena has 31 cards
+Elena played 4. Total cards left = 30
+
+
+War continued!
+
+Stefan won 6 cards.
+
+
+Round 131 -
+Stefan has 22 cards
+Stefan played 4. Total cards left = 21
+
+Elena has 30 cards
+Elena played 6. Total cards left = 29
+
+Elena won 2 cards.
+
+
+Round 132 -
+Stefan has 21 cards
+Stefan played 14. Total cards left = 20
+
+Elena has 31 cards
+Elena played 6. Total cards left = 30
+
+Stefan won 2 cards.
+
+
+Round 133 -
+Stefan has 22 cards
+Stefan played 6. Total cards left = 21
+
+Elena has 30 cards
+Elena played 4. Total cards left = 29
+
+Stefan won 2 cards.
+
+
+Round 134 -
+Stefan has 23 cards
+Stefan played 4. Total cards left = 22
+
+Elena has 29 cards
+Elena played 12. Total cards left = 28
+
+Elena won 2 cards.
+
+
+Round 135 -
+Stefan has 22 cards
+Stefan played 6. Total cards left = 21
+
+Elena has 30 cards
+Elena played 12. Total cards left = 29
+
+Elena won 2 cards.
+
+
+Round 136 -
+Stefan has 21 cards
+Stefan played 14. Total cards left = 20
+
+Elena has 31 cards
+Elena played 12. Total cards left = 30
+
+Stefan won 2 cards.
+
+
+Round 137 -
+Stefan has 22 cards
+Stefan played 12. Total cards left = 21
+
+Elena has 30 cards
+Elena played 6. Total cards left = 29
+
+Stefan won 2 cards.
+
+
+Round 138 -
+Stefan has 23 cards
+Stefan played 6. Total cards left = 22
+
+Elena has 29 cards
+Elena played 4. Total cards left = 28
+
+Stefan won 2 cards.
+
+
+Round 139 -
+Stefan has 24 cards
+Stefan played 4. Total cards left = 23
+
+Elena has 28 cards
+Elena played 12. Total cards left = 27
+
+Elena won 2 cards.
+
+
+Round 140 -
+Stefan has 23 cards
+Stefan played 6. Total cards left = 22
+
+Elena has 29 cards
+Elena played 12. Total cards left = 28
+
+Elena won 2 cards.
+
+
+Round 141 -
+Stefan has 22 cards
+Stefan played 12. Total cards left = 21
+
+Elena has 30 cards
+Elena played 12. Total cards left = 29
+
+
+War!
+
+Stefan has 21 cards
+Stefan played 14. Total cards left = 20
+
+Elena has 29 cards
+Elena played 6. Total cards left = 28
+
+Stefan has 20 cards
+Stefan played 10. Total cards left = 19
+
+Elena has 28 cards
+Elena played 4. Total cards left = 27
+
+
+War continued!
+
+Stefan won 6 cards.
+
+
+Round 142 -
+Stefan has 25 cards
+Stefan played 4. Total cards left = 24
+
+Elena has 27 cards
+Elena played 3. Total cards left = 26
+
+Stefan won 2 cards.
+
+
+Round 143 -
+Stefan has 26 cards
+Stefan played 3. Total cards left = 25
+
+Elena has 26 cards
+Elena played 2. Total cards left = 25
+
+Stefan won 2 cards.
+
+
+Round 144 -
+Stefan has 27 cards
+Stefan played 2. Total cards left = 26
+
+Elena has 25 cards
+Elena played 2. Total cards left = 24
+
+
+War!
+
+Stefan has 26 cards
+Stefan played 3. Total cards left = 25
+
+Elena has 24 cards
+Elena played 3. Total cards left = 23
+
+Stefan has 25 cards
+Stefan played 4. Total cards left = 24
+
+Elena has 23 cards
+Elena played 4. Total cards left = 22
+
+Stefan has 24 cards
+Stefan played 10. Total cards left = 23
+
+Elena has 22 cards
+Elena played 2. Total cards left = 21
+
+Stefan has 23 cards
+Stefan played 6. Total cards left = 22
+
+Elena has 21 cards
+Elena played 9. Total cards left = 20
+
+
+War continued!
+
+Elena won 10 cards.
+
+
+Round 145 -
+Stefan has 22 cards
+Stefan played 14. Total cards left = 21
+
+Elena has 30 cards
+Elena played 9. Total cards left = 29
+
+Stefan won 2 cards.
+
+
+Round 146 -
+Stefan has 23 cards
+Stefan played 9. Total cards left = 22
+
+Elena has 29 cards
+Elena played 6. Total cards left = 28
+
+Stefan won 2 cards.
+
+
+Round 147 -
+Stefan has 24 cards
+Stefan played 6. Total cards left = 23
+
+Elena has 28 cards
+Elena played 2. Total cards left = 27
+
+Stefan won 2 cards.
+
+
+Round 148 -
+Stefan has 25 cards
+Stefan played 2. Total cards left = 24
+
+Elena has 27 cards
+Elena played 10. Total cards left = 26
+
+Elena won 2 cards.
+
+
+Round 149 -
+Stefan has 24 cards
+Stefan played 6. Total cards left = 23
+
+Elena has 28 cards
+Elena played 10. Total cards left = 27
+
+Elena won 2 cards.
+
+
+Round 150 -
+Stefan has 23 cards
+Stefan played 9. Total cards left = 22
+
+Elena has 29 cards
+Elena played 10. Total cards left = 28
+
+Elena won 2 cards.
+
+
+Round 151 -
+Stefan has 22 cards
+Stefan played 14. Total cards left = 21
+
+Elena has 30 cards
+Elena played 10. Total cards left = 29
+
+Stefan won 2 cards.
+
+
+Round 152 -
+Stefan has 23 cards
+Stefan played 10. Total cards left = 22
+
+Elena has 29 cards
+Elena played 9. Total cards left = 28
+
+Stefan won 2 cards.
+
+
+Round 153 -
+Stefan has 24 cards
+Stefan played 9. Total cards left = 23
+
+Elena has 28 cards
+Elena played 6. Total cards left = 27
+
+Stefan won 2 cards.
+
+
+Round 154 -
+Stefan has 25 cards
+Stefan played 6. Total cards left = 24
+
+Elena has 27 cards
+Elena played 2. Total cards left = 26
+
+Stefan won 2 cards.
+
+
+Round 155 -
+Stefan has 26 cards
+Stefan played 2. Total cards left = 25
+
+Elena has 26 cards
+Elena played 4. Total cards left = 25
+
+Elena won 2 cards.
+
+
+Round 156 -
+Stefan has 25 cards
+Stefan played 6. Total cards left = 24
+
+Elena has 27 cards
+Elena played 4. Total cards left = 26
+
+Stefan won 2 cards.
+
+
+Round 157 -
+Stefan has 26 cards
+Stefan played 4. Total cards left = 25
+
+Elena has 26 cards
+Elena played 2. Total cards left = 25
+
+Stefan won 2 cards.
+
+
+Round 158 -
+Stefan has 27 cards
+Stefan played 2. Total cards left = 26
+
+Elena has 25 cards
+Elena played 4. Total cards left = 24
+
+Elena won 2 cards.
+
+
+Round 159 -
+Stefan has 26 cards
+Stefan played 4. Total cards left = 25
+
+Elena has 26 cards
+Elena played 4. Total cards left = 25
+
+
+War!
+
+Stefan has 25 cards
+Stefan played 6. Total cards left = 24
+
+Elena has 25 cards
+Elena played 2. Total cards left = 24
+
+Stefan has 24 cards
+Stefan played 9. Total cards left = 23
+
+Elena has 24 cards
+Elena played 3. Total cards left = 23
+
+
+War continued!
+
+Stefan won 6 cards.
+
+
+Round 160 -
+Stefan has 29 cards
+Stefan played 3. Total cards left = 28
+
+Elena has 23 cards
+Elena played 3. Total cards left = 22
+
+
+War!
+
+Stefan has 28 cards
+Stefan played 9. Total cards left = 27
+
+Elena has 22 cards
+Elena played 2. Total cards left = 21
+
+Stefan has 27 cards
+Stefan played 2. Total cards left = 26
+
+Elena has 21 cards
+Elena played 2. Total cards left = 20
+
+Stefan has 26 cards
+Stefan played 6. Total cards left = 25
+
+Elena has 20 cards
+Elena played 6. Total cards left = 19
+
+Stefan has 25 cards
+Stefan played 4. Total cards left = 24
+
+Elena has 19 cards
+Elena played 2. Total cards left = 18
+
+
+War continued!
+
+Stefan won 10 cards.
+
+
+Round 161 -
+Stefan has 34 cards
+Stefan played 2. Total cards left = 33
+
+Elena has 18 cards
+Elena played 10. Total cards left = 17
+
+Elena won 2 cards.
+
+
+Round 162 -
+Stefan has 33 cards
+Stefan played 4. Total cards left = 32
+
+Elena has 19 cards
+Elena played 10. Total cards left = 18
+
+Elena won 2 cards.
+
+
+Round 163 -
+Stefan has 32 cards
+Stefan played 6. Total cards left = 31
+
+Elena has 20 cards
+Elena played 10. Total cards left = 19
+
+Elena won 2 cards.
+
+
+Round 164 -
+Stefan has 31 cards
+Stefan played 6. Total cards left = 30
+
+Elena has 21 cards
+Elena played 10. Total cards left = 20
+
+Elena won 2 cards.
+
+
+Round 165 -
+Stefan has 30 cards
+Stefan played 2. Total cards left = 29
+
+Elena has 22 cards
+Elena played 10. Total cards left = 21
+
+Elena won 2 cards.
+
+
+Round 166 -
+Stefan has 29 cards
+Stefan played 2. Total cards left = 28
+
+Elena has 23 cards
+Elena played 10. Total cards left = 22
+
+Elena won 2 cards.
+
+
+Round 167 -
+Stefan has 28 cards
+Stefan played 2. Total cards left = 27
+
+Elena has 24 cards
+Elena played 10. Total cards left = 23
+
+Elena won 2 cards.
+
+
+Round 168 -
+Stefan has 27 cards
+Stefan played 9. Total cards left = 26
+
+Elena has 25 cards
+Elena played 10. Total cards left = 24
+
+Elena won 2 cards.
+
+
+Round 169 -
+Stefan has 26 cards
+Stefan played 3. Total cards left = 25
+
+Elena has 26 cards
+Elena played 10. Total cards left = 25
+
+Elena won 2 cards.
+
+
+Round 170 -
+Stefan has 25 cards
+Stefan played 3. Total cards left = 24
+
+Elena has 27 cards
+Elena played 10. Total cards left = 26
+
+Elena won 2 cards.
+
+
+Round 171 -
+Stefan has 24 cards
+Stefan played 4. Total cards left = 23
+
+Elena has 28 cards
+Elena played 10. Total cards left = 27
+
+Elena won 2 cards.
+
+
+Round 172 -
+Stefan has 23 cards
+Stefan played 10. Total cards left = 22
+
+Elena has 29 cards
+Elena played 10. Total cards left = 28
+
+
+War!
+
+Stefan has 22 cards
+Stefan played 14. Total cards left = 21
+
+Elena has 28 cards
+Elena played 4. Total cards left = 27
+
+Stefan has 21 cards
+Stefan played 12. Total cards left = 20
+
+Elena has 27 cards
+Elena played 3. Total cards left = 26
+
+
+War continued!
+
+Stefan won 6 cards.
+
+
+Round 173 -
+Stefan has 26 cards
+Stefan played 3. Total cards left = 25
+
+Elena has 26 cards
+Elena played 3. Total cards left = 25
+
+
+War!
+
+Stefan has 25 cards
+Stefan played 12. Total cards left = 24
+
+Elena has 25 cards
+Elena played 9. Total cards left = 24
+
+Stefan has 24 cards
+Stefan played 4. Total cards left = 23
+
+Elena has 24 cards
+Elena played 2. Total cards left = 23
+
+
+War continued!
+
+Stefan won 6 cards.
+
+
+Round 174 -
+Stefan has 29 cards
+Stefan played 2. Total cards left = 28
+
+Elena has 23 cards
+Elena played 2. Total cards left = 22
+
+
+War!
+
+Stefan has 28 cards
+Stefan played 4. Total cards left = 27
+
+Elena has 22 cards
+Elena played 2. Total cards left = 21
+
+Stefan has 27 cards
+Stefan played 9. Total cards left = 26
+
+Elena has 21 cards
+Elena played 6. Total cards left = 20
+
+
+War continued!
+
+Stefan won 6 cards.
+
+
+Round 175 -
+Stefan has 32 cards
+Stefan played 6. Total cards left = 31
+
+Elena has 20 cards
+Elena played 6. Total cards left = 19
+
+
+War!
+
+Stefan has 31 cards
+Stefan played 9. Total cards left = 30
+
+Elena has 19 cards
+Elena played 4. Total cards left = 18
+
+Stefan has 30 cards
+Stefan played 2. Total cards left = 29
+
+Elena has 18 cards
+Elena played 2. Total cards left = 17
+
+Stefan has 29 cards
+Stefan played 4. Total cards left = 28
+
+Elena has 17 cards
+Elena played 3. Total cards left = 16
+
+Stefan has 28 cards
+Stefan played 2. Total cards left = 27
+
+Elena has 16 cards
+Elena played 8. Total cards left = 15
+
+
+War continued!
+
+Elena won 10 cards.
+
+
+Round 176 -
+Stefan has 27 cards
+Stefan played 2. Total cards left = 26
+
+Elena has 25 cards
+Elena played 8. Total cards left = 24
+
+Elena won 2 cards.
+
+
+Round 177 -
+Stefan has 26 cards
+Stefan played 12. Total cards left = 25
+
+Elena has 26 cards
+Elena played 8. Total cards left = 25
+
+Stefan won 2 cards.
+
+
+Round 178 -
+Stefan has 27 cards
+Stefan played 8. Total cards left = 26
+
+Elena has 25 cards
+Elena played 2. Total cards left = 24
+
+Stefan won 2 cards.
+
+
+Round 179 -
+Stefan has 28 cards
+Stefan played 2. Total cards left = 27
+
+Elena has 24 cards
+Elena played 2. Total cards left = 23
+
+
+War!
+
+Stefan has 27 cards
+Stefan played 8. Total cards left = 26
+
+Elena has 23 cards
+Elena played 3. Total cards left = 22
+
+Stefan has 26 cards
+Stefan played 12. Total cards left = 25
+
+Elena has 22 cards
+Elena played 4. Total cards left = 21
+
+
+War continued!
+
+Stefan won 6 cards.
+
+
+Round 180 -
+Stefan has 31 cards
+Stefan played 4. Total cards left = 30
+
+Elena has 21 cards
+Elena played 2. Total cards left = 20
+
+Stefan won 2 cards.
+
+
+Round 181 -
+Stefan has 32 cards
+Stefan played 2. Total cards left = 31
+
+Elena has 20 cards
+Elena played 2. Total cards left = 19
+
+
+War!
+
+Stefan has 31 cards
+Stefan played 4. Total cards left = 30
+
+Elena has 19 cards
+Elena played 4. Total cards left = 18
+
+Stefan has 30 cards
+Stefan played 12. Total cards left = 29
+
+Elena has 18 cards
+Elena played 9. Total cards left = 17
+
+
+War continued!
+
+Stefan won 6 cards.
+
+
+Round 182 -
+Stefan has 35 cards
+Stefan played 9. Total cards left = 34
+
+Elena has 17 cards
+Elena played 6. Total cards left = 16
+
+Stefan won 2 cards.
+
+
+Round 183 -
+Stefan has 36 cards
+Stefan played 6. Total cards left = 35
+
+Elena has 16 cards
+Elena played 6. Total cards left = 15
+
+
+War!
+
+Stefan has 35 cards
+Stefan played 9. Total cards left = 34
+
+Elena has 15 cards
+Elena played 13. Total cards left = 14
+
+Stefan has 34 cards
+Stefan played 12. Total cards left = 33
+
+Elena has 14 cards
+Elena played 7. Total cards left = 13
+
+
+War continued!
+
+Stefan won 6 cards.
+
+
+Round 184 -
+Stefan has 39 cards
+Stefan played 7. Total cards left = 38
+
+Elena has 13 cards
+Elena played 3. Total cards left = 12
+
+Stefan won 2 cards.
+
+
+Round 185 -
+Stefan has 40 cards
+Stefan played 3. Total cards left = 39
+
+Elena has 12 cards
+Elena played 6. Total cards left = 11
+
+Elena won 2 cards.
+
+
+Round 186 -
+Stefan has 39 cards
+Stefan played 7. Total cards left = 38
+
+Elena has 13 cards
+Elena played 6. Total cards left = 12
+
+Stefan won 2 cards.
+
+
+Round 187 -
+Stefan has 40 cards
+Stefan played 6. Total cards left = 39
+
+Elena has 12 cards
+Elena played 3. Total cards left = 11
+
+Stefan won 2 cards.
+
+
+Round 188 -
+Stefan has 41 cards
+Stefan played 3. Total cards left = 40
+
+Elena has 11 cards
+Elena played 9. Total cards left = 10
+
+Elena won 2 cards.
+
+
+Round 189 -
+Stefan has 40 cards
+Stefan played 6. Total cards left = 39
+
+Elena has 12 cards
+Elena played 9. Total cards left = 11
+
+Elena won 2 cards.
+
+
+Round 190 -
+Stefan has 39 cards
+Stefan played 7. Total cards left = 38
+
+Elena has 13 cards
+Elena played 9. Total cards left = 12
+
+Elena won 2 cards.
+
+
+Round 191 -
+Stefan has 38 cards
+Stefan played 12. Total cards left = 37
+
+Elena has 14 cards
+Elena played 9. Total cards left = 13
+
+Stefan won 2 cards.
+
+
+Round 192 -
+Stefan has 39 cards
+Stefan played 9. Total cards left = 38
+
+Elena has 13 cards
+Elena played 7. Total cards left = 12
+
+Stefan won 2 cards.
+
+
+Round 193 -
+Stefan has 40 cards
+Stefan played 7. Total cards left = 39
+
+Elena has 12 cards
+Elena played 6. Total cards left = 11
+
+Stefan won 2 cards.
+
+
+Round 194 -
+Stefan has 41 cards
+Stefan played 6. Total cards left = 40
+
+Elena has 11 cards
+Elena played 3. Total cards left = 10
+
+Stefan won 2 cards.
+
+
+Round 195 -
+Stefan has 42 cards
+Stefan played 3. Total cards left = 41
+
+Elena has 10 cards
+Elena played 5. Total cards left = 9
+
+Elena won 2 cards.
+
+
+Round 196 -
+Stefan has 41 cards
+Stefan played 6. Total cards left = 40
+
+Elena has 11 cards
+Elena played 5. Total cards left = 10
+
+Stefan won 2 cards.
+
+
+Round 197 -
+Stefan has 42 cards
+Stefan played 5. Total cards left = 41
+
+Elena has 10 cards
+Elena played 3. Total cards left = 9
+
+Stefan won 2 cards.
+
+
+Round 198 -
+Stefan has 43 cards
+Stefan played 3. Total cards left = 42
+
+Elena has 9 cards
+Elena played 5. Total cards left = 8
+
+Elena won 2 cards.
+
+
+Round 199 -
+Stefan has 42 cards
+Stefan played 5. Total cards left = 41
+
+Elena has 10 cards
+Elena played 5. Total cards left = 9
+
+
+War!
+
+Stefan has 41 cards
+Stefan played 6. Total cards left = 40
+
+Elena has 9 cards
+Elena played 3. Total cards left = 8
+
+Stefan has 40 cards
+Stefan played 7. Total cards left = 39
+
+Elena has 8 cards
+Elena played 11. Total cards left = 7
+
+
+War continued!
+
+Elena won 6 cards.
+
+
+Round 200 -
+Stefan has 39 cards
+Stefan played 9. Total cards left = 38
+
+Elena has 13 cards
+Elena played 11. Total cards left = 12
+
+Elena won 2 cards.
+
+
+Round 201 -
+Stefan has 38 cards
+Stefan played 12. Total cards left = 37
+
+Elena has 14 cards
+Elena played 11. Total cards left = 13
+
+Stefan won 2 cards.
+
+
+Round 202 -
+Stefan has 39 cards
+Stefan played 11. Total cards left = 38
+
+Elena has 13 cards
+Elena played 9. Total cards left = 12
+
+Stefan won 2 cards.
+
+
+Round 203 -
+Stefan has 40 cards
+Stefan played 9. Total cards left = 39
+
+Elena has 12 cards
+Elena played 7. Total cards left = 11
+
+Stefan won 2 cards.
+
+
+Round 204 -
+Stefan has 41 cards
+Stefan played 7. Total cards left = 40
+
+Elena has 11 cards
+Elena played 3. Total cards left = 10
+
+Stefan won 2 cards.
+
+
+Round 205 -
+Stefan has 42 cards
+Stefan played 3. Total cards left = 41
+
+Elena has 10 cards
+Elena played 6. Total cards left = 9
+
+Elena won 2 cards.
+
+
+Round 206 -
+Stefan has 41 cards
+Stefan played 7. Total cards left = 40
+
+Elena has 11 cards
+Elena played 6. Total cards left = 10
+
+Stefan won 2 cards.
+
+
+Round 207 -
+Stefan has 42 cards
+Stefan played 6. Total cards left = 41
+
+Elena has 10 cards
+Elena played 3. Total cards left = 9
+
+Stefan won 2 cards.
+
+
+Round 208 -
+Stefan has 43 cards
+Stefan played 3. Total cards left = 42
+
+Elena has 9 cards
+Elena played 5. Total cards left = 8
+
+Elena won 2 cards.
+
+
+Round 209 -
+Stefan has 42 cards
+Stefan played 6. Total cards left = 41
+
+Elena has 10 cards
+Elena played 5. Total cards left = 9
+
+Stefan won 2 cards.
+
+
+Round 210 -
+Stefan has 43 cards
+Stefan played 5. Total cards left = 42
+
+Elena has 9 cards
+Elena played 3. Total cards left = 8
+
+Stefan won 2 cards.
+
+
+Round 211 -
+Stefan has 44 cards
+Stefan played 3. Total cards left = 43
+
+Elena has 8 cards
+Elena played 5. Total cards left = 7
+
+Elena won 2 cards.
+
+
+Round 212 -
+Stefan has 43 cards
+Stefan played 5. Total cards left = 42
+
+Elena has 9 cards
+Elena played 5. Total cards left = 8
+
+
+War!
+
+Stefan has 42 cards
+Stefan played 6. Total cards left = 41
+
+Elena has 8 cards
+Elena played 3. Total cards left = 7
+
+Stefan has 41 cards
+Stefan played 7. Total cards left = 40
+
+Elena has 7 cards
+Elena played 7. Total cards left = 6
+
+Stefan has 40 cards
+Stefan played 9. Total cards left = 39
+
+Elena has 6 cards
+Elena played 9. Total cards left = 5
+
+Stefan has 39 cards
+Stefan played 11. Total cards left = 38
+
+Elena has 5 cards
+Elena played 10. Total cards left = 4
+
+
+War continued!
+
+Stefan won 10 cards.
+
+
+Round 213 -
+Stefan has 48 cards
+Stefan played 10. Total cards left = 47
+
+Elena has 4 cards
+Elena played 10. Total cards left = 3
+
+
+War!
+
+Stefan has 47 cards
+Stefan played 11. Total cards left = 46
+
+Elena has 3 cards
+Elena played 11. Total cards left = 2
+
+Stefan has 46 cards
+Stefan played 9. Total cards left = 45
+
+Elena has 2 cards
+Elena played 8. Total cards left = 1
+
+
+War continued!
+
+Stefan won 6 cards.
+
+
+Round 214 -
+Stefan has 51 cards
+Stefan played 8. Total cards left = 50
+
+Elena has 1 cards
+Elena played 11. Total cards left = 0
+
+Elena won 2 cards.
+
+
+Round 215 -
+Stefan has 50 cards
+Stefan played 9. Total cards left = 49
+
+Elena has 2 cards
+Elena played 11. Total cards left = 1
+
+Elena won 2 cards.
+
+
+Round 216 -
+Stefan has 49 cards
+Stefan played 11. Total cards left = 48
+
+Elena has 3 cards
+Elena played 11. Total cards left = 2
+
+
+War!
+
+Stefan has 48 cards
+Stefan played 11. Total cards left = 47
+
+Elena has 2 cards
+Elena played 9. Total cards left = 1
+
+Stefan has 47 cards
+Stefan played 10. Total cards left = 46
+
+Elena has 1 cards
+Elena played 8. Total cards left = 0
+
+
+War continued!
+
+Stefan won 6 cards.
+
+Stefan has 52
+Elena has 0
+
+Winner: Stefan
+Wins: 1
+
+
+Game Over!
+Stefan won the game with 1 total wins
