@@ -64,13 +64,19 @@ docker pull sindhuraghuram97/war-game:latest
 2. Run the Docker container:
 
 ```bash
-docker run
+docker run -it --rm -p 8000:8000 war-game
 ```
 
 3. Access the game in your web browser by navigating to:
 
 ```
 http://localhost:8000
+```
+
+4. Once you are done, the container can be terminated by entering:
+
+```
+Ctrl + C
 ```
 
 Enjoy the game!
