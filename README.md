@@ -26,11 +26,13 @@ This project has the following files in the `source` folder:
 
 - `war_game.py`: Contains the code to play the card game "War" and stores the results of each game in the `player_wins.db` SQL database.
 - `war_game_api.py`: Provides APIs for 
-        *  starting a game 
-        *  getting the players' scores 
-        *  getting the score of a particular player 
-        *  resetting all players' scores
-        *  fetching the game logs 
+
+        i.  starting a game 
+       ii.  getting the players' scores 
+      iii.  getting the score of a particular player 
+       iv.  resetting all players' scores
+        v.  fetching the game logs 
+        
   The associated port for this service is 8080.
 - `war_game_flask.py`: Creates a web interface to accomplish the tasks laid out by each of the API's. The associated port is 8000.
 
