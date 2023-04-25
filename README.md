@@ -80,3 +80,10 @@ Ctrl + C
 ```
 
 Enjoy the game!
+
+## Potential Enhancements To Consider
+
+* Use of a persistent database that can be hosted on the cloud.
+* Additional testing and handling of exceptions and corner cases.
+* UI enhancement.
+* Implementation of additional features in the game such as allowing the user to make a wager on the winner or including additional rounds amongst the highest scorers.
