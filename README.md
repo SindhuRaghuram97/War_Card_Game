@@ -78,7 +78,7 @@ docker pull sindhuraghuram97/war-game:latest
 docker run -it --rm -p 8000:8000 sindhuraghuram97/war-game
 ```
 
-3. Access the game in your web browser by navigating to:
+3. Access the game in your web browser by navigating to the endpoint provided in your terminal after step 2 or use:
 
 ```
 http://localhost:8000
