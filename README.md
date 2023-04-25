@@ -61,6 +61,9 @@ CMD sh -c "python war_game_api.py & python war_game_flask.py"
 
 ## Getting Started
 
+### Prerequisites:
+ Have Docker installed on the system and keep it running.
+
 To run the game using Docker, follow these steps:
 
 1. Pull the Docker image:
@@ -72,7 +75,7 @@ docker pull sindhuraghuram97/war-game:latest
 2. Run the Docker container:
 
 ```bash
-docker run -it --rm -p 8000:8000 war-game
+docker run -it --rm -p 8000:8000 sindhuraghuram97/war-game
 ```
 
 3. Access the game in your web browser by navigating to:
