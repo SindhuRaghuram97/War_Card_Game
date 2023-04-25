@@ -25,10 +25,16 @@ The game ends when one player has won all the cards.
 This project has the following files in the `source` folder:
 
 - `war_game.py`: Contains the code to play the card game "War" and stores the results of each game in the `player_wins.db` SQL database.
-- `war_game_api.py`: Provides APIs for starting a game, getting player scores, getting wins of a particular player, fetching game logs, and resetting all players' scores. The associated port is 8080.
-- `war_game_flask.py`: Creates the web interface with buttons for each API and makes corresponding calls upon a click. The associated port is 8000.
+- `war_game_api.py`: Provides APIs for 
+        *  starting a game 
+        *  getting the players' scores 
+        *  getting the score of a particular player 
+        *  resetting all players' scores
+        *  fetching the game logs 
+  The associated port for this service is 8080.
+- `war_game_flask.py`: Creates a web interface to accomplish the tasks laid out by each of the API's. The associated port is 8000.
 
-The `tests` folder contains unit tests for each file.
+The `tests` folder contains unit tests for each of these files.
 
 ## Docker Setup
 
